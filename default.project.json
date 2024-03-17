@@ -1,8 +1,10 @@
 {
+  "emitLegacyScripts": false,
   "name": "Core-Obby",
   "servePlaceIds": [
     16746642969
   ],
+
   "tree": {
     "$className": "DataModel",
     "ReplicatedFirst": {
